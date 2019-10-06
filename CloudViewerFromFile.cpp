@@ -1,4 +1,4 @@
-// CloudViewer.cpp
+// CloudViewerFromFile.cpp
 
 #include <iostream>
 
